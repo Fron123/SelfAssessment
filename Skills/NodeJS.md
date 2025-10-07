@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` 
   - `error.cause`
   - `error.code`
   - `error.message`
