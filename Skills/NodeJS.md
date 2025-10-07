@@ -90,7 +90,7 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging u
   - Application configuring
   - Testing
   - CI/CD
