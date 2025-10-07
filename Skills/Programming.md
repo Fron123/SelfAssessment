@@ -17,7 +17,7 @@
   - Library c
   - Package c
   - Component c
-  - Framework u
+  - Framework k
   - Platform k
   - Source code c
   - Object code c
